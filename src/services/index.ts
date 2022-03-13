@@ -1,0 +1,4 @@
+export const SLICE_KEY_NAME = {
+  AUTH_KEY: 'AUTH_KEY',
+  DASHBOARD_KEY: 'DASHBOARD_KEY',
+};

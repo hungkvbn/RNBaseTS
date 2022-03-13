@@ -1,0 +1,14 @@
+{
+  "COMMON": {
+    "slogan": "Make yourself stronger than your excuses",
+    "email": "Email",
+    "password": "Password"
+  },
+  "INITIAL-SCREEN": {
+    "title": "Make yourself stronger than your excuses",
+    "get_start": "Get Started"
+  },
+  "SIGNIN-SCREEN": {
+    "login": "Login"
+  }
+}
